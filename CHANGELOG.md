@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/Torawr/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([93067e5](https://github.com/Torawr/github-unleashed-sample-app/commit/93067e5b7062ec1a88b5104207eedecf5a493e61))
+* fixed the typo in index.html ([fc1f03d](https://github.com/Torawr/github-unleashed-sample-app/commit/fc1f03dc8ca36970112fd0e57e5db461bed7533b))
+
 ## 0.0.1 (2025-06-24)
 
 
